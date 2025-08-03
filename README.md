@@ -8,11 +8,11 @@ This code is automatically open **wikipedia.org** website
 **https://nodejs.org/en/download**
 
 ## Install Playwright
-'''npm i -D playwright'''
-'''npx playwright install'''
+```npm i -D playwright```
+```npx playwright install```
 
 ## Run this code headless mode
-'''npx playwright test'''
+```npx playwright test```
 
 ## Run this code headed mode (get a visual browser when run)
-'''npx playwright test --headed'''
+```npx playwright test --headed```
